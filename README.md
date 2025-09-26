@@ -6,15 +6,15 @@ It demonstrates Level 1 Authentication (using email & password without hashing/e
 
 ## 📷 Gallery
 
-| UI | To-do List |
+| SignUp Page | Login|
 |----|------------|
-| ![lgl1](./imgg/lgl1.png) | ![lgl2](./imgg/lgl2.png) |
+| ![lgl1](./imgg/lgl1.png) | ![lgl4](./imgg/lgl4.png)|
 
-| Add To-do List | Edit To-do List |
+| Register | Secret Page|
 |----------------|-----------------|
-| ![lgl3](./imgg/lgl3.png) | ![lgl4](./imgg/lgl4.png) |
+|![lgl2](./imgg/lgl2.png)   | ![lgl3](./imgg/lgl3.png) |
 
-| Delete To-do List | 
+| DataBase | 
 |-------------------|
 | ![lgl5](./imgg/lgl5.png) |
 
