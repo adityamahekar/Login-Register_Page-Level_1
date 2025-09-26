@@ -6,11 +6,11 @@ It demonstrates Level 1 Authentication (using email & password without hashing/e
 
 ## 📷 Gallery
 
-| SignUp Page | Login|
+| SignUp Page | Login Page|
 |----|------------|
 | ![lgl1](./imgg/lgl1.png) | ![lgl4](./imgg/lgl4.png)|
 
-| Register | Secret Page|
+| Register Page| Secret Page|
 |----------------|-----------------|
 |![lgl2](./imgg/lgl2.png)   | ![lgl3](./imgg/lgl3.png) |
 
