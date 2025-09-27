@@ -1,7 +1,8 @@
 # 🔐 Login & Register Page – Level 1 Authentication
+---
+This project is a basic authentication system built with **Node.js**, **Express**, **EJS**, and **PostgreSQL**.  
+It demonstrates **Level 1 Authentication** (using email & password without hashing/encryption).
 
-This project is a basic authentication system built with Node.js, Express, EJS, and PostgreSQL.
-It demonstrates Level 1 Authentication (using email & password without hashing/encryption).
 ---
 ## Levels of Encryption:
 <br>
