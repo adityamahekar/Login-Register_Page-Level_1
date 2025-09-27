@@ -5,7 +5,7 @@ It demonstrates **Level 1 Authentication** (using email & password without hashi
 
 ---
 ## Levels of Encryption:
-<br>
+
 Level 1: Cipher [Caesor Cipher,Hill Cipher, Playfair Cipher,...]<br>
 Level 2: Hashing<br>
 Level 3: Salting Rounds + Hashing<br>
