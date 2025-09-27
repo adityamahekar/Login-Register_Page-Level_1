@@ -12,7 +12,7 @@ Level 3: Salting Rounds + Hashing<br>
 
 ---
 📂 Project Structure:<br><br>
-Authentication+Lv.2<br>
+Authentication+Lv.1<br>
 │── css/<br>
 │   └── styles.css           Extra CSS file<br>
 │<br>
