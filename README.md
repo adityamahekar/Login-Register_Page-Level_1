@@ -14,24 +14,25 @@ Level 3: Salting Rounds + Hashing<br>
 📂 Project Structure:<br><br>
 Authentication+Lv.1<br>
 │── css/<br>
-│   └── styles.css           Extra CSS file<br>
+│   └── styles.css          <br>
 │<br>
 │── public/<br>
-│   └── styles.css           Public-facing CSS file<br>
+│   └── styles.css         <br>
 │<br>
 │── partials/<br>
-│   ├── footer.ejs           Footer partial template<br>
-│   └── header.ejs           Header partial template<br>
+│   ├── footer.ejs           e<br>
+│   └── header.ejs          <br>
 │<br>
 │── views/<br>
-│   ├── home.ejs             Home page<br>
-│   ├── login.ejs            Login page<br>
-│   ├── register.ejs         Register page<br>
-│   ├── secrets.ejs          Protected page<br>
+│   ├── home.ejs             <br>
+│   ├── login.ejs           <br>
+│   ├── register.ejs        <br>
+│   ├── secrets.ejs          <br>
 │<br>
-│── index.js                 Main server file<br>
-│── package.json             Dependencies & scripts<br>
-│── package-lock.json        Locked dependency versions<br>
+│── index.js                <br>
+│── package.json            <br>
+│── package-lock.json       <br>
+
 
 ---
 
