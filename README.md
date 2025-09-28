@@ -4,11 +4,15 @@ This project is a basic authentication system built with **Node.js**, **Express*
 It demonstrates **Level 1 Authentication** (using email & password without hashing/encryption).
 
 ---
-## Levels of Encryption:
+The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public/ folder.<br>
+---
 
-Level 1: Cipher [Caesor Cipher,Hill Cipher, Playfair Cipher,...]<br>
-Level 2: Hashing<br>
-Level 3: Salting Rounds + Hashing<br>
+🔑 Levels of Authentication:<br>
+Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
+Level 2: Hashing (MD5, SHA, etc.)<br>
+Level 3: Hashing + Salt Rounds (bcrypt)<br>
+Level 4: Session-Based Authentication (bcrypt + Passport.js + Cookies ✅ this project)<br>
+
 
 ---
 📂 Project Structure:<br><br>
