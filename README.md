@@ -19,7 +19,7 @@ Level 5: Environment Variables + Session-Based Authentication<br>
 
 ---
 📂 Project Structure:<br><br>
-Authentication+Lv.1<br>
+Authentication Lv.1<br>
 │── css/<br>
 │   └── styles.css          <br>
 │<br>
