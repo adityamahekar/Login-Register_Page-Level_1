@@ -8,7 +8,7 @@ The project follows a modular EJS structure using partials (header.ejs, footer.e
 
 ---
 
-🔑 Levels of Authentication:<br>
+
 🔑 Levels of Authentication:<br>
 Level 1: Basic Cipher (Caesar, Hill, Playfair, etc.)<br>
 Level 2: Hashing (MD5, SHA, etc.)<br>
