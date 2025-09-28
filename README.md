@@ -2,9 +2,9 @@
 
 This project is a basic authentication system built with **Node.js**, **Express**, **EJS**, and **PostgreSQL**.  
 It demonstrates **Level 1 Authentication** (using email & password without hashing/encryption).
-
 ---
 The project follows a modular EJS structure using partials (header.ejs, footer.ejs) and serves static assets through the public/ folder.<br>
+
 ---
 
 🔑 Levels of Authentication:<br>
